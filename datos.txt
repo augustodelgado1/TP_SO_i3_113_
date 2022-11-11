@@ -6,3 +6,6 @@ GONZALO COSSA
 Direcciâ–’n IPv4. . . . . . . . . . . . . . : 192.168.56.1
 Fri Nov 11 18:59:18     2022
 
+AUGUSTO DELGADO
+Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.100.11
+Fri Nov 11 19:13:57     2022
