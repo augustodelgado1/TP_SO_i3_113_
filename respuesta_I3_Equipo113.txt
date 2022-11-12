@@ -1,0 +1,34 @@
+a-¿Como queda El master después de estos cambios?
+Respueta : quedo con las modificaciones y los commits que se realizaron en la ultima rama
+
+b-¿Beta pudo ver todos los cambios que se realizaron?
+Respueta : Si ,BETA puede ver los cambios
+
+c-¿que debió hacer (todos los comandos) en el punto 5 para poder hacer el merge ?
+Respueta :
+
+4. git clone (link del directorio)
+git checkout (rama de gamma)
+"AUGUSTO DELGADO">>datos.txt
+date>>datos.txt
+cat /proc/cpuinfo >CPUBeta.txt
+git push origin (rama de gamma)
+
+
+5.git merge origin/(rama a fusionar) -m "(mensaje)"
+parado sobre la rama principal
+
+git push origin (rama principal)
+
+
+6.git pull
+git branch (nombre de la nueva rama)
+git checkout (rama creada) 
+"AUGUSTO DELGADO">>beta.txt
+ipconfig>>beta.txt
+date>>beta.txt
+git push origin (rama nueva)
+
+9.git pull
+git merge origin/(rama a fusionar) -m "(mensaje)"
+parado sobre la rama master
