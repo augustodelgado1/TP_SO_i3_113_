@@ -75,3 +75,32 @@ Adaptador de tτel Teredo Tunneling Pseudo-Interface:
    V》culo: direcci▋ IPv6 local. . . : fe80::8b1:2b2f:409e:5d2d%14
    Puerta de enlace predeterminada . . . . . : ::
 Fri Nov 11 20:46:01     2022
+
+
+GONZALO COSSA 
+
+Configuraci好 IP de Windows
+
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS especifico para la conexi好. . :
+   Direcci好 IPv6 . . . . . . . . . . : 2800:810:4f6:9300::1000
+   Direcci好 IPv6 . . . . . . . . . . : 2800:810:4f6:9300:dc68:8e4d:a030:beaa
+   Direcci好 IPv6 temporal. . . . . . : 2800:810:4f6:9300:d4a0:4381:4263:5457
+   V好culo: direcci好 IPv6 local. . . : fe80::327e:5dee:6f1c:7377%4
+   Direcci好 IPv4. . . . . . . . . . . . . . : 192.168.0.46
+   M存cara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::fa08:4fff:fe38:1107%4
+                                       192.168.0.1
+
+Adaptador de Ethernet VirtualBox Host-Only Network:
+
+   Sufijo DNS espec圩ico para la conexi好. . :
+   V好culo: direcci好 IPv6 local. . . : fe80::9705:26cd:ee32:e29c%9
+   Direcci好 IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   M存cara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Fri Nov 11 21:27:56     2022
+
