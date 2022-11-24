@@ -69,3 +69,14 @@ f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido
 -git add -A 
 -git commit
 -git push
+
+g-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
+- git clone -b DELGADO https://github.com/augustodelgado1/TP_SO_i3_113_.git
+- cat GONZALO COSSA >> beta.txt
+- ipconfig >> beta.txt
+- git status
+- git add .
+- git commit -m "ALFA modifica beta.txt"
+- git push
+
+
